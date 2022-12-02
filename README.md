@@ -2,10 +2,6 @@
 Student clubs notification service as part of final project for distributed systems class: COEN 317
 
 
- _ __ ___  __ _  __| |_ __ ___   ___ 
-| '__/ _ \/ _` |/ _` | '_ ` _ \ / _ \
-| | |  __/ (_| | (_| | | | | | |  __/
-|_|  \___|\__,_|\__,_|_| |_| |_|\___|
 
 Student clubs notification service -- Final project for distributed systems class: COEN 317 at Santa Clara University
 
